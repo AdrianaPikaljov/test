@@ -8,8 +8,6 @@
             Console.WriteLine("insert frist number and press enter: ");
             //string tuleb konvertida int andmetüübiks
             float firstNr = float.Parse(Console.ReadLine());
-
-            Console.WriteLine("insert calculation type by number");
             Console.WriteLine("1. Addition");
             Console.WriteLine("2. Subtraction");
             Console.WriteLine("3. Multiplication");
