@@ -25,7 +25,7 @@
                 int count = amount / coin;
                 if (count > 0)
                 {
-                    Console.WriteLine($"{coin}-cent: {count} tk");
+                    Console.WriteLine($"{coin}-sent: {count} tk");
                     amount %= coin;
                 }
 
